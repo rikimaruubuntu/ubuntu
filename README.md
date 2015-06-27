@@ -1,2 +1,3 @@
-# ubuntu
-いろいろ記載します。
+#ubuntu
+いろいろ記載します  
+gitbashから更新。
